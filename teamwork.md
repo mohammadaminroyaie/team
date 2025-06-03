@@ -4,3 +4,5 @@ It provides the underpinnings for today’s computer applications as well as the
 
 The goal of this book is to establish a functional understanding of computer science:
 
+ 
+one that will support those who wish to pursue more specialized studies in the science as well as one that will enable those in other fields to flourish in an increasingly technical society.
